@@ -9,16 +9,21 @@ sites:
     url: https://mijope.de
   - name: knowledge
     url: https://knowledge.rootknecht.net
+    icon: https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png
   - name: Syncthing
     url: $SYNC
     expectedStatusCodes:
       - 401
+    icon: https://syncthing.net/img/favicons/favicon-32x32.png
   - name: Timetrack
     url: $TRACK
+    icon: https://www.timetrackapp.com/wp-content/uploads/2020/04/favicon.png
   - name: Huginn
     url: $HUGINN
+    icon: https://raw.githubusercontent.com/huginn/huginn/master/media/huginn-icon-64.png
   - name: Git
     url: $GIT
+    icon: https://gitea.io/images/favicon.png
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -27,7 +32,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "Status of Allaman's services"
+  introTitle: "Status"
   navbar:
     - title: Status
       href: /
