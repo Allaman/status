@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "syncthing",
     "status": "down",
-    "uptime": "10.91%",
-    "uptimeDay": "10.91%",
-    "uptimeWeek": "10.91%",
-    "uptimeMonth": "10.91%",
-    "uptimeYear": "10.91%",
+    "uptime": "5.94%",
+    "uptimeDay": "5.94%",
+    "uptimeWeek": "5.94%",
+    "uptimeMonth": "5.94%",
+    "uptimeYear": "5.94%",
     "time": 949,
     "timeDay": 949,
     "timeWeek": 949,
     "timeMonth": 949,
     "timeYear": 949,
     "dailyMinutesDown": {
-      "2020-12-28": 0
+      "2020-12-28": 1
     }
   },
   {
