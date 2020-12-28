@@ -1,7 +1,5 @@
 # [📈 Live Status](https://Allaman.github.io/status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page powered by [Upptime](https://github.com/upptime/upptime).
-
 [![Uptime CI](https://github.com/koj-co/upptime/workflows/Uptime%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/koj-co/upptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Response+Time+CI%22)
 [![Graphs CI](https://github.com/koj-co/upptime/workflows/Graphs%20CI/badge.svg)](https://github.com/koj-co/upptime/actions?query=workflow%3A%22Graphs+CI%22)
@@ -28,5 +26,5 @@ This repository contains the open-source uptime monitor and status page powered 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Michael Peter](allaman)
+- Code: [MIT](./LICENSE) © [Michael Peter](https://github.com/Allaman)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
