@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "syncthing",
     "status": "up",
-    "uptime": "2.50%",
-    "uptimeDay": "2.50%",
-    "uptimeWeek": "2.50%",
-    "uptimeMonth": "2.50%",
-    "uptimeYear": "2.50%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 997,
     "timeDay": 997,
     "timeWeek": 997,
     "timeMonth": 997,
     "timeYear": 997,
-    "dailyMinutesDown": {
-      "2020-12-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Timetrack",
