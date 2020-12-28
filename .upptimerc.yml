@@ -5,9 +5,9 @@ user-agent: allaman
 
 # Add your sites here
 sites:
-  - name: mjp
+  - name: mijope.de
     url: https://mijope.de
-  - name: knowledge
+  - name: knowledge.rootknecht.net
     url: https://knowledge.rootknecht.net
     icon: https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png
   - name: Syncthing
@@ -31,13 +31,15 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "Status"
+  name: Status
+  introTitle: "Status of mijope.de and rootknecht.net"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
+    - title: Source code
       href: https://github.com/$OWNER/$REPO
+    - title: Me
+      href: https://github.com/$OWNER/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
