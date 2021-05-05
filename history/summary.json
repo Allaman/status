@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 865,
-    "timeDay": 651,
-    "timeWeek": 800,
-    "timeMonth": 919,
+    "timeDay": 907,
+    "timeWeek": 821,
+    "timeMonth": 914,
     "timeYear": 865,
     "dailyMinutesDown": {
       "2021-04-29": 19
@@ -31,9 +31,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 1124,
-    "timeDay": 1570,
-    "timeWeek": 1055,
-    "timeMonth": 1095,
+    "timeDay": 1074,
+    "timeWeek": 1068,
+    "timeMonth": 1087,
     "timeYear": 1124,
     "dailyMinutesDown": {
       "2021-04-29": 18
@@ -51,9 +51,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 921,
-    "timeDay": 1359,
-    "timeWeek": 912,
-    "timeMonth": 923,
+    "timeDay": 967,
+    "timeWeek": 934,
+    "timeMonth": 922,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2021-04-29": 18
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
-    "timeDay": 496,
-    "timeWeek": 816,
-    "timeMonth": 833,
+    "timeDay": 825,
+    "timeWeek": 717,
+    "timeMonth": 822,
     "timeYear": 783,
     "dailyMinutesDown": {}
   },
@@ -89,9 +89,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 817,
-    "timeDay": 565,
-    "timeWeek": 730,
-    "timeMonth": 754,
+    "timeDay": 831,
+    "timeWeek": 761,
+    "timeMonth": 749,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2021-04-29": 17
@@ -103,14 +103,14 @@
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
     "status": "up",
-    "uptime": "97.59%",
+    "uptime": "97.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.59%",
+    "uptimeYear": "97.61%",
     "time": 839,
-    "timeDay": 640,
-    "timeWeek": 1011,
+    "timeDay": 940,
+    "timeWeek": 1051,
     "timeMonth": 897,
     "timeYear": 839,
     "dailyMinutesDown": {
