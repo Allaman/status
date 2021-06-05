@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 869,
-    "timeDay": 1138,
+    "time": 868,
+    "timeDay": 656,
     "timeWeek": 862,
-    "timeMonth": 886,
-    "timeYear": 869,
+    "timeMonth": 878,
+    "timeYear": 868,
     "dailyMinutesDown": {
       "2021-04-29": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1114,
-    "timeDay": 1224,
-    "timeWeek": 982,
-    "timeMonth": 1072,
-    "timeYear": 1114,
+    "time": 1112,
+    "timeDay": 804,
+    "timeWeek": 985,
+    "timeMonth": 1063,
+    "timeYear": 1112,
     "dailyMinutesDown": {
       "2021-04-29": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 920,
-    "timeDay": 1151,
-    "timeWeek": 908,
-    "timeMonth": 919,
-    "timeYear": 920,
+    "time": 919,
+    "timeDay": 679,
+    "timeWeek": 892,
+    "timeMonth": 910,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2021-04-29": 18
     }
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 777,
-    "timeDay": 807,
-    "timeWeek": 683,
-    "timeMonth": 750,
-    "timeYear": 777,
+    "time": 776,
+    "timeDay": 590,
+    "timeWeek": 690,
+    "timeMonth": 742,
+    "timeYear": 776,
     "dailyMinutesDown": {}
   },
   {
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 811,
-    "timeDay": 997,
-    "timeWeek": 773,
-    "timeMonth": 787,
-    "timeYear": 811,
+    "time": 810,
+    "timeDay": 567,
+    "timeWeek": 767,
+    "timeMonth": 778,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2021-04-29": 17
     }
@@ -103,16 +103,16 @@
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
     "status": "up",
-    "uptime": "98.06%",
+    "uptime": "98.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.06%",
-    "time": 840,
-    "timeDay": 1174,
-    "timeWeek": 844,
-    "timeMonth": 844,
-    "timeYear": 840,
+    "uptimeYear": "98.07%",
+    "time": 838,
+    "timeDay": 592,
+    "timeWeek": 829,
+    "timeMonth": 833,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2021-01-27": 853,
       "2021-01-26": 1440,
