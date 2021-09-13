@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 889,
-    "timeDay": 1222,
-    "timeWeek": 962,
-    "timeMonth": 984,
+    "timeDay": 976,
+    "timeWeek": 995,
+    "timeMonth": 986,
     "timeYear": 889,
     "dailyMinutesDown": {
       "2021-04-29": 19
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1116,
-    "timeDay": 1447,
-    "timeWeek": 1144,
-    "timeMonth": 1172,
-    "timeYear": 1116,
+    "time": 1117,
+    "timeDay": 1198,
+    "timeWeek": 1178,
+    "timeMonth": 1177,
+    "timeYear": 1117,
     "dailyMinutesDown": {
       "2021-04-29": 18
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
-    "timeDay": 1233,
-    "timeWeek": 1036,
-    "timeMonth": 998,
+    "timeDay": 903,
+    "timeWeek": 1046,
+    "timeMonth": 999,
     "timeYear": 931,
     "dailyMinutesDown": {
       "2021-04-29": 18
@@ -71,8 +71,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 783,
-    "timeDay": 912,
-    "timeWeek": 786,
+    "timeDay": 699,
+    "timeWeek": 803,
     "timeMonth": 812,
     "timeYear": 783,
     "dailyMinutesDown": {}
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 879,
-    "timeWeek": 796,
-    "timeMonth": 806,
+    "timeDay": 863,
+    "timeWeek": 823,
+    "timeMonth": 813,
     "timeYear": 799,
     "dailyMinutesDown": {
       "2021-04-29": 17
@@ -103,15 +103,15 @@
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
     "status": "up",
-    "uptime": "98.81%",
+    "uptime": "98.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.82%",
     "time": 855,
-    "timeDay": 1056,
-    "timeWeek": 916,
-    "timeMonth": 957,
+    "timeDay": 1011,
+    "timeWeek": 961,
+    "timeMonth": 961,
     "timeYear": 855,
     "dailyMinutesDown": {
       "2021-01-27": 853,
