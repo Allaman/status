@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 987,
-    "timeWeek": 1031,
+    "time": 893,
+    "timeDay": 1125,
+    "timeWeek": 1052,
     "timeMonth": 1028,
-    "timeYear": 892,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2021-04-29": 19
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 1361,
-    "timeWeek": 1254,
-    "timeMonth": 1226,
-    "timeYear": 1120,
+    "time": 1121,
+    "timeDay": 1354,
+    "timeWeek": 1276,
+    "timeMonth": 1225,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2021-04-29": 18
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 934,
-    "timeWeek": 1053,
-    "timeMonth": 1043,
-    "timeYear": 934,
+    "time": 935,
+    "timeDay": 961,
+    "timeWeek": 1061,
+    "timeMonth": 1037,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2021-04-29": 18
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
-    "timeDay": 945,
-    "timeWeek": 798,
-    "timeMonth": 831,
+    "timeDay": 975,
+    "timeWeek": 837,
+    "timeMonth": 833,
     "timeYear": 784,
     "dailyMinutesDown": {}
   },
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 800,
-    "timeDay": 1012,
-    "timeWeek": 834,
-    "timeMonth": 836,
+    "timeDay": 999,
+    "timeWeek": 854,
+    "timeMonth": 842,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2021-04-29": 17
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.85%",
-    "time": 858,
-    "timeDay": 953,
-    "timeWeek": 990,
-    "timeMonth": 994,
-    "timeYear": 858,
+    "time": 859,
+    "timeDay": 985,
+    "timeWeek": 986,
+    "timeMonth": 987,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2021-01-27": 853,
       "2021-01-26": 1440,
