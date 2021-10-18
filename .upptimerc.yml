@@ -10,6 +10,9 @@ sites:
   - name: knowledge.rootknecht.net
     url: https://knowledge.rootknecht.net
     icon: https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png
+  - name: rootknecht.net
+    url: https://rootknecht.net
+    icon: https://rootknecht.net/logo.png
   - name: Syncthing
     url: $SYNC
     expectedStatusCodes:
@@ -32,7 +35,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
-  introTitle: "Status of mijope.de and rootknecht.net"
+  introTitle: "Status of my systems"
   navbar:
     - title: Status
       href: /
@@ -40,6 +43,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Me
       href: https://github.com/$OWNER/
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
