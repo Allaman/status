@@ -4,11 +4,11 @@
     "url": "https://mijope.de",
     "icon": "https://favicons.githubusercontent.com/mijope.de",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.28%",
-    "uptimeWeek": "99.47%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "96.17%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 899,
     "timeDay": 969,
@@ -16,6 +16,7 @@
     "timeMonth": 956,
     "timeYear": 899,
     "dailyMinutesDown": {
+      "2021-10-18": 2,
       "2021-10-17": 54,
       "2021-04-29": 19
     }
@@ -25,10 +26,10 @@
     "url": "https://knowledge.rootknecht.net",
     "icon": "https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png",
     "slug": "knowledge-rootknecht-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1173,
@@ -37,6 +38,7 @@
     "timeMonth": 1647,
     "timeYear": 1173,
     "dailyMinutesDown": {
+      "2021-10-18": 1,
       "2021-04-29": 18
     }
   },
