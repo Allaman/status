@@ -4,11 +4,11 @@
     "url": "https://mijope.de",
     "icon": "https://favicons.githubusercontent.com/mijope.de",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.98%",
     "time": 898,
     "timeDay": 879,
@@ -16,7 +16,7 @@
     "timeMonth": 938,
     "timeYear": 898,
     "dailyMinutesDown": {
-      "2021-10-19": 10,
+      "2021-10-19": 1,
       "2021-10-17": 54,
       "2021-04-29": 19
     }
@@ -26,10 +26,10 @@
     "url": "https://knowledge.rootknecht.net",
     "icon": "https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png",
     "slug": "knowledge-rootknecht-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1185,
@@ -38,6 +38,7 @@
     "timeMonth": 1683,
     "timeYear": 1185,
     "dailyMinutesDown": {
+      "2021-10-19": 1,
       "2021-04-29": 18
     }
   },
@@ -46,18 +47,20 @@
     "url": "https://rootknecht.net",
     "icon": "https://rootknecht.net/logo.png",
     "slug": "rootknecht-net",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 184,
     "timeDay": 184,
     "timeWeek": 184,
     "timeMonth": 184,
     "timeYear": 184,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-19": 0
+    }
   },
   {
     "name": "Syncthing",
