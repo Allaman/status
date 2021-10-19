@@ -4,10 +4,10 @@
     "url": "https://mijope.de",
     "icon": "https://favicons.githubusercontent.com/mijope.de",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.94%",
-    "uptimeWeek": "99.32%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 897,
@@ -16,7 +16,7 @@
     "timeMonth": 931,
     "timeYear": 897,
     "dailyMinutesDown": {
-      "2021-10-19": 15,
+      "2021-10-19": 16,
       "2021-10-17": 54,
       "2021-04-29": 19
     }
@@ -26,19 +26,19 @@
     "url": "https://knowledge.rootknecht.net",
     "icon": "https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png",
     "slug": "knowledge-rootknecht-net",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "status": "down",
+    "uptime": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1187,
     "timeDay": 1917,
     "timeWeek": 2022,
     "timeMonth": 1685,
     "timeYear": 1187,
     "dailyMinutesDown": {
-      "2021-10-19": 15,
+      "2021-10-19": 1,
       "2021-04-29": 18
     }
   },
@@ -47,19 +47,19 @@
     "url": "https://rootknecht.net",
     "icon": "https://rootknecht.net/logo.png",
     "slug": "rootknecht-net",
-    "status": "up",
-    "uptime": "98.87%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "98.87%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "98.87%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 336,
     "timeDay": 336,
     "timeWeek": 336,
     "timeMonth": 336,
     "timeYear": 336,
     "dailyMinutesDown": {
-      "2021-10-19": 14
+      "2021-10-19": 0
     }
   },
   {
