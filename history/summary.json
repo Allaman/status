@@ -4,11 +4,11 @@
     "url": "https://mijope.de",
     "icon": "https://favicons.githubusercontent.com/mijope.de",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.96%",
     "time": 903,
     "timeDay": 654,
@@ -16,6 +16,7 @@
     "timeMonth": 937,
     "timeYear": 903,
     "dailyMinutesDown": {
+      "2021-11-28": 3,
       "2021-10-21": 82,
       "2021-10-19": 31,
       "2021-10-17": 54,
@@ -27,11 +28,11 @@
     "url": "https://knowledge.rootknecht.net",
     "icon": "https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png",
     "slug": "knowledge-rootknecht-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1342,
     "timeDay": 1624,
@@ -39,6 +40,7 @@
     "timeMonth": 2491,
     "timeYear": 1342,
     "dailyMinutesDown": {
+      "2021-11-28": 2,
       "2021-10-19": 15,
       "2021-04-29": 18
     }
@@ -48,10 +50,10 @@
     "url": "https://rootknecht.net",
     "icon": "https://rootknecht.net/logo.png",
     "slug": "rootknecht-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
@@ -59,17 +61,19 @@
     "timeWeek": 264,
     "timeMonth": 268,
     "timeYear": 292,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-28": 2
+    }
   },
   {
     "name": "Syncthing",
     "url": "$SYNC",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 946,
@@ -78,6 +82,7 @@
     "timeMonth": 995,
     "timeYear": 946,
     "dailyMinutesDown": {
+      "2021-11-28": 1,
       "2021-04-29": 18
     }
   },
@@ -104,10 +109,10 @@
     "url": "$HUGINN",
     "icon": "https://raw.githubusercontent.com/huginn/huginn/master/media/huginn-icon-64.png",
     "slug": "huginn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 803,
@@ -116,6 +121,7 @@
     "timeMonth": 777,
     "timeYear": 803,
     "dailyMinutesDown": {
+      "2021-11-28": 1,
       "2021-04-29": 17
     }
   },
@@ -124,9 +130,9 @@
     "url": "$GIT",
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.09%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.09%",
@@ -136,6 +142,7 @@
     "timeMonth": 934,
     "timeYear": 878,
     "dailyMinutesDown": {
+      "2021-11-28": 0,
       "2021-01-27": 853,
       "2021-01-26": 1440,
       "2021-01-25": 1440,
