@@ -7,9 +7,6 @@ user-agent: allaman
 sites:
   - name: mijope.de
     url: https://mijope.de
-  - name: knowledge.rootknecht.net
-    url: https://knowledge.rootknecht.net
-    icon: https://knowledge.rootknecht.net/user/themes/mytheme/images/logo.png
   - name: rootknecht.net
     url: https://rootknecht.net
     icon: https://rootknecht.net/logo.png
