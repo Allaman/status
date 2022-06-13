@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 906,
-    "timeDay": 843,
-    "timeWeek": 729,
-    "timeMonth": 757,
+    "timeDay": 778,
+    "timeWeek": 758,
+    "timeMonth": 752,
     "timeYear": 921,
     "dailyMinutesDown": {
       "2022-01-14": 41,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1085,
-    "timeDay": 1346,
-    "timeWeek": 1239,
-    "timeMonth": 1262,
-    "timeYear": 1085,
+    "time": 1086,
+    "timeDay": 1262,
+    "timeWeek": 1281,
+    "timeMonth": 1259,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2021-11-28": 19
     }
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 965,
-    "timeDay": 777,
-    "timeWeek": 750,
-    "timeMonth": 765,
+    "timeDay": 752,
+    "timeWeek": 766,
+    "timeMonth": 759,
     "timeYear": 985,
     "dailyMinutesDown": {
       "2022-01-26": 326,
@@ -70,18 +70,20 @@
     "url": "$TRACK",
     "icon": "https://www.timetrackapp.com/wp-content/uploads/2020/04/favicon.png",
     "slug": "timetrack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 788,
-    "timeDay": 907,
-    "timeWeek": 786,
-    "timeMonth": 805,
-    "timeYear": 794,
-    "dailyMinutesDown": {}
+    "timeDay": 708,
+    "timeWeek": 795,
+    "timeMonth": 795,
+    "timeYear": 795,
+    "dailyMinutesDown": {
+      "2022-06-13": 0
+    }
   },
   {
     "name": "Huginn",
@@ -94,10 +96,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 791,
-    "timeDay": 675,
-    "timeWeek": 617,
-    "timeMonth": 614,
+    "time": 786,
+    "timeDay": 639,
+    "timeWeek": 631,
+    "timeMonth": 610,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2021-11-28": 18
@@ -115,10 +117,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 910,
-    "timeDay": 742,
-    "timeWeek": 695,
-    "timeMonth": 717,
-    "timeYear": 926,
+    "timeDay": 728,
+    "timeWeek": 718,
+    "timeMonth": 711,
+    "timeYear": 927,
     "dailyMinutesDown": {
       "2021-11-28": 17
     }
