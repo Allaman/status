@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 900,
-    "timeDay": 778,
-    "timeWeek": 691,
-    "timeMonth": 741,
-    "timeYear": 917,
+    "timeDay": 556,
+    "timeWeek": 631,
+    "timeMonth": 731,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2022-01-13": 6,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1096,
-    "timeDay": 1241,
-    "timeWeek": 1149,
-    "timeMonth": 1242,
-    "timeYear": 1096,
+    "time": 1095,
+    "timeDay": 906,
+    "timeWeek": 1040,
+    "timeMonth": 1219,
+    "timeYear": 1095,
     "dailyMinutesDown": {
       "2021-11-28": 19
     }
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 962,
-    "timeDay": 804,
-    "timeWeek": 735,
-    "timeMonth": 756,
-    "timeYear": 979,
+    "time": 961,
+    "timeDay": 534,
+    "timeWeek": 679,
+    "timeMonth": 750,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2022-01-26": 326,
       "2021-11-28": 18
@@ -77,9 +77,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 795,
-    "timeDay": 703,
-    "timeWeek": 752,
-    "timeMonth": 869,
+    "timeDay": 578,
+    "timeWeek": 692,
+    "timeMonth": 862,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -97,10 +97,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
-    "timeDay": 608,
-    "timeWeek": 584,
-    "timeMonth": 589,
-    "timeYear": 793,
+    "timeDay": 480,
+    "timeWeek": 534,
+    "timeMonth": 586,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2021-11-28": 18
     }
@@ -111,15 +111,15 @@
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
     "status": "up",
-    "uptime": "99.44%",
+    "uptime": "99.45%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 904,
-    "timeDay": 744,
-    "timeWeek": 702,
-    "timeMonth": 699,
+    "timeDay": 548,
+    "timeWeek": 634,
+    "timeMonth": 693,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2021-11-28": 17
