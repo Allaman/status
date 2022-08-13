@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 890,
-    "timeDay": 793,
-    "timeWeek": 664,
-    "timeMonth": 754,
-    "timeYear": 899,
+    "timeDay": 738,
+    "timeWeek": 690,
+    "timeMonth": 753,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2022-01-13": 6,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1120,
-    "timeDay": 1261,
-    "timeWeek": 1154,
-    "timeMonth": 1317,
-    "timeYear": 1120,
+    "time": 1121,
+    "timeDay": 1518,
+    "timeWeek": 1238,
+    "timeMonth": 1324,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2021-11-28": 19
     }
@@ -55,11 +55,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 957,
-    "timeDay": 821,
-    "timeWeek": 1022,
-    "timeMonth": 879,
-    "timeYear": 968,
+    "time": 956,
+    "timeDay": 723,
+    "timeWeek": 1035,
+    "timeMonth": 876,
+    "timeYear": 967,
     "dailyMinutesDown": {
       "2022-01-26": 326,
       "2021-11-28": 18
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 715,
-    "timeWeek": 732,
-    "timeMonth": 817,
+    "timeDay": 778,
+    "timeWeek": 733,
+    "timeMonth": 820,
     "timeYear": 803,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 773,
-    "timeDay": 641,
-    "timeWeek": 656,
-    "timeMonth": 664,
+    "timeDay": 580,
+    "timeWeek": 672,
+    "timeMonth": 662,
     "timeYear": 776,
     "dailyMinutesDown": {
       "2021-11-28": 18
@@ -117,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 904,
-    "timeDay": 767,
-    "timeWeek": 1154,
-    "timeMonth": 910,
+    "timeDay": 892,
+    "timeWeek": 1202,
+    "timeMonth": 915,
     "timeYear": 920,
     "dailyMinutesDown": {
       "2021-11-28": 17
