@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 888,
-    "timeDay": 795,
-    "timeWeek": 737,
-    "timeMonth": 782,
-    "timeYear": 876,
+    "timeDay": 561,
+    "timeWeek": 704,
+    "timeMonth": 773,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2022-01-13": 6,
@@ -36,9 +36,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1141,
-    "timeDay": 1603,
-    "timeWeek": 1233,
-    "timeMonth": 1301,
+    "timeDay": 975,
+    "timeWeek": 1191,
+    "timeMonth": 1284,
     "timeYear": 1141,
     "dailyMinutesDown": {
       "2021-11-28": 19
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 956,
-    "timeDay": 892,
-    "timeWeek": 900,
-    "timeMonth": 918,
+    "timeDay": 869,
+    "timeWeek": 889,
+    "timeMonth": 914,
     "timeYear": 956,
     "dailyMinutesDown": {
       "2022-01-26": 326,
@@ -76,10 +76,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 798,
-    "timeDay": 693,
-    "timeWeek": 721,
-    "timeMonth": 814,
+    "time": 799,
+    "timeDay": 860,
+    "timeWeek": 710,
+    "timeMonth": 818,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -96,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 770,
-    "timeDay": 677,
-    "timeWeek": 711,
-    "timeMonth": 721,
-    "timeYear": 764,
+    "time": 769,
+    "timeDay": 468,
+    "timeWeek": 663,
+    "timeMonth": 717,
+    "timeYear": 763,
     "dailyMinutesDown": {
       "2021-11-28": 18
     }
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 900,
-    "timeDay": 851,
-    "timeWeek": 757,
-    "timeMonth": 805,
-    "timeYear": 904,
+    "time": 899,
+    "timeDay": 591,
+    "timeWeek": 733,
+    "timeMonth": 801,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2021-11-28": 17
     }
