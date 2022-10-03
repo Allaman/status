@@ -2,7 +2,7 @@
   {
     "name": "mijope.de",
     "url": "https://mijope.de",
-    "icon": "https://favicons.githubusercontent.com/mijope.de",
+    "icon": "https://icons.duckduckgo.com/ip3/mijope.de.ico",
     "slug": "mijope-de",
     "status": "up",
     "uptime": "99.97%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 880,
-    "timeDay": 279,
-    "timeWeek": 242,
-    "timeMonth": 625,
-    "timeYear": 858,
+    "time": 879,
+    "timeDay": 326,
+    "timeWeek": 212,
+    "timeMonth": 604,
+    "timeYear": 856,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2022-01-13": 6,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1145,
-    "timeDay": 1654,
-    "timeWeek": 1259,
-    "timeMonth": 1276,
-    "timeYear": 1145,
+    "time": 1147,
+    "timeDay": 1616,
+    "timeWeek": 1340,
+    "timeMonth": 1275,
+    "timeYear": 1147,
     "dailyMinutesDown": {
       "2021-11-28": 19
     }
@@ -55,10 +55,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 955,
-    "timeDay": 1219,
-    "timeWeek": 897,
-    "timeMonth": 926,
+    "time": 956,
+    "timeDay": 958,
+    "timeWeek": 920,
+    "timeMonth": 919,
     "timeYear": 954,
     "dailyMinutesDown": {
       "2022-01-26": 326,
@@ -76,10 +76,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 806,
-    "timeDay": 944,
-    "timeWeek": 1307,
-    "timeMonth": 909,
+    "time": 807,
+    "timeDay": 916,
+    "timeWeek": 1357,
+    "timeMonth": 902,
     "timeYear": 812,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 768,
-    "timeDay": 878,
-    "timeWeek": 703,
-    "timeMonth": 718,
+    "timeDay": 974,
+    "timeWeek": 769,
+    "timeMonth": 724,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2021-11-28": 18
@@ -116,11 +116,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 975,
-    "timeWeek": 809,
-    "timeMonth": 792,
-    "timeYear": 898,
+    "time": 897,
+    "timeDay": 807,
+    "timeWeek": 819,
+    "timeMonth": 779,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2021-11-28": 17
     }
