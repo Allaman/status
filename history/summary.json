@@ -26,9 +26,9 @@
     "url": "https://rootknecht.net",
     "icon": "https://rootknecht.net/logo.png",
     "slug": "rootknecht-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,6 +38,7 @@
     "timeMonth": 1258,
     "timeYear": 1177,
     "dailyMinutesDown": {
+      "2022-10-27": 0,
       "2021-11-28": 19
     }
   },
@@ -46,9 +47,9 @@
     "url": "$SYNC",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
@@ -58,6 +59,7 @@
     "timeMonth": 892,
     "timeYear": 949,
     "dailyMinutesDown": {
+      "2022-10-27": 0,
       "2022-01-26": 326,
       "2021-11-28": 18
     }
@@ -87,9 +89,9 @@
     "url": "$HUGINN",
     "icon": "https://raw.githubusercontent.com/huginn/huginn/master/media/huginn-icon-64.png",
     "slug": "huginn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,6 +101,7 @@
     "timeMonth": 730,
     "timeYear": 752,
     "dailyMinutesDown": {
+      "2022-10-27": 0,
       "2021-11-28": 18
     }
   },
@@ -107,9 +110,9 @@
     "url": "$GIT",
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -119,6 +122,7 @@
     "timeMonth": 787,
     "timeYear": 888,
     "dailyMinutesDown": {
+      "2022-10-27": 0,
       "2021-11-28": 17
     }
   }
