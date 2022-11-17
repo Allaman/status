@@ -28,17 +28,16 @@
     "slug": "rootknecht-net",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 1161,
     "timeDay": 1673,
     "timeWeek": 1380,
     "timeMonth": 1268,
-    "timeYear": 1234,
+    "timeYear": 1237,
     "dailyMinutesDown": {
-      "2022-11-16": 4,
       "2022-10-27": 23,
       "2021-11-28": 19
     }
