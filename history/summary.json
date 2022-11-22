@@ -47,9 +47,9 @@
     "url": "$SYNC",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.93%",
@@ -59,6 +59,7 @@
     "timeMonth": 880,
     "timeYear": 939,
     "dailyMinutesDown": {
+      "2022-11-22": 0,
       "2022-10-27": 23,
       "2022-01-26": 326,
       "2021-11-28": 18
