@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 787,
-    "timeDay": 259,
-    "timeWeek": 220,
-    "timeMonth": 218,
-    "timeYear": 740,
+    "time": 785,
+    "timeDay": 116,
+    "timeWeek": 204,
+    "timeMonth": 217,
+    "timeYear": 739,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2022-01-13": 6
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1165,
-    "timeDay": 1268,
-    "timeWeek": 1266,
-    "timeMonth": 1310,
-    "timeYear": 1279,
+    "timeDay": 960,
+    "timeWeek": 1223,
+    "timeMonth": 1311,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 952,
-    "timeDay": 1013,
-    "timeWeek": 930,
-    "timeMonth": 898,
+    "time": 951,
+    "timeDay": 638,
+    "timeWeek": 896,
+    "timeMonth": 895,
     "timeYear": 937,
     "dailyMinutesDown": {
       "2022-10-27": 23,
@@ -73,10 +73,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 805,
-    "timeDay": 721,
-    "timeWeek": 748,
-    "timeMonth": 738,
-    "timeYear": 807,
+    "timeDay": 742,
+    "timeWeek": 755,
+    "timeMonth": 744,
+    "timeYear": 808,
     "dailyMinutesDown": {
       "2022-06-13": 18
     }
@@ -93,10 +93,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 761,
-    "timeDay": 825,
-    "timeWeek": 699,
-    "timeMonth": 695,
-    "timeYear": 740,
+    "timeDay": 636,
+    "timeWeek": 700,
+    "timeMonth": 697,
+    "timeYear": 741,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -113,10 +113,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 890,
-    "timeDay": 939,
-    "timeWeek": 796,
-    "timeMonth": 780,
-    "timeYear": 867,
+    "timeDay": 818,
+    "timeWeek": 803,
+    "timeMonth": 792,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
