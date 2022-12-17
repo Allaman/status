@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 764,
-    "timeDay": 288,
-    "timeWeek": 219,
-    "timeMonth": 203,
-    "timeYear": 709,
+    "time": 762,
+    "timeDay": 223,
+    "timeWeek": 227,
+    "timeMonth": 209,
+    "timeYear": 708,
     "dailyMinutesDown": {
       "2022-01-14": 41,
       "2022-01-13": 6
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1167,
-    "timeDay": 1392,
-    "timeWeek": 1203,
-    "timeMonth": 1264,
-    "timeYear": 1312,
+    "time": 1166,
+    "timeDay": 972,
+    "timeWeek": 1163,
+    "timeMonth": 1241,
+    "timeYear": 1314,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -51,10 +51,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 951,
-    "timeDay": 1041,
-    "timeWeek": 861,
-    "timeMonth": 884,
+    "time": 950,
+    "timeDay": 738,
+    "timeWeek": 835,
+    "timeMonth": 888,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2022-10-27": 23,
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 804,
-    "timeDay": 1008,
-    "timeWeek": 811,
-    "timeMonth": 753,
+    "timeDay": 591,
+    "timeWeek": 766,
+    "timeMonth": 754,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -93,8 +93,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 758,
-    "timeDay": 716,
-    "timeWeek": 646,
+    "timeDay": 654,
+    "timeWeek": 625,
     "timeMonth": 680,
     "timeYear": 726,
     "dailyMinutesDown": {
@@ -112,10 +112,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 993,
-    "timeWeek": 739,
-    "timeMonth": 763,
+    "time": 887,
+    "timeDay": 575,
+    "timeWeek": 714,
+    "timeMonth": 764,
     "timeYear": 853,
     "dailyMinutesDown": {
       "2022-10-27": 23
