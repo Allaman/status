@@ -108,17 +108,16 @@
     "slug": "git",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "98.98%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 891,
     "timeDay": 2207,
     "timeWeek": 1269,
     "timeMonth": 912,
     "timeYear": 861,
     "dailyMinutesDown": {
-      "2022-12-22": 15,
       "2022-10-27": 23
     }
   }
