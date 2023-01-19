@@ -4,18 +4,20 @@
     "url": "https://mijope.de",
     "icon": "https://icons.duckduckgo.com/ip3/mijope.de.ico",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 713,
-    "timeDay": 139,
-    "timeWeek": 242,
-    "timeMonth": 257,
+    "timeDay": 0,
+    "timeWeek": 251,
+    "timeMonth": 256,
     "timeYear": 642,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-19": 0
+    }
   },
   {
     "name": "rootknecht.net",
@@ -28,9 +30,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1187,
-    "timeDay": 1044,
-    "timeWeek": 1956,
+    "time": 1188,
+    "timeDay": 1671,
+    "timeWeek": 1957,
     "timeMonth": 1478,
     "timeYear": 1420,
     "dailyMinutesDown": {
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 943,
-    "timeDay": 741,
-    "timeWeek": 962,
-    "timeMonth": 937,
-    "timeYear": 908,
+    "time": 942,
+    "timeDay": 1208,
+    "timeWeek": 967,
+    "timeMonth": 936,
+    "timeYear": 909,
     "dailyMinutesDown": {
       "2022-10-27": 23,
       "2022-01-26": 326
@@ -70,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 578,
-    "timeWeek": 812,
-    "timeMonth": 774,
+    "timeDay": 814,
+    "timeWeek": 790,
+    "timeMonth": 770,
     "timeYear": 805,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -89,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 756,
-    "timeDay": 613,
-    "timeWeek": 1330,
-    "timeMonth": 849,
+    "time": 757,
+    "timeDay": 983,
+    "timeWeek": 1351,
+    "timeMonth": 854,
     "timeYear": 727,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -110,10 +112,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 892,
-    "timeDay": 706,
-    "timeWeek": 1482,
-    "timeMonth": 1099,
-    "timeYear": 858,
+    "timeDay": 1192,
+    "timeWeek": 1514,
+    "timeMonth": 1105,
+    "timeYear": 859,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
