@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 667,
-    "timeDay": 317,
-    "timeWeek": 252,
-    "timeMonth": 219,
-    "timeYear": 570,
+    "time": 665,
+    "timeDay": 206,
+    "timeWeek": 232,
+    "timeMonth": 217,
+    "timeYear": 569,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1258,
-    "timeDay": 1615,
-    "timeWeek": 1280,
-    "timeMonth": 1845,
+    "time": 1260,
+    "timeDay": 977,
+    "timeWeek": 1243,
+    "timeMonth": 1825,
     "timeYear": 1401,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 941,
-    "timeDay": 1166,
-    "timeWeek": 930,
-    "timeMonth": 916,
+    "time": 940,
+    "timeDay": 796,
+    "timeWeek": 909,
+    "timeMonth": 901,
     "timeYear": 902,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 807,
-    "timeDay": 874,
-    "timeWeek": 838,
-    "timeMonth": 882,
+    "timeDay": 503,
+    "timeWeek": 799,
+    "timeMonth": 859,
     "timeYear": 813,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 750,
-    "timeDay": 817,
-    "timeWeek": 743,
-    "timeMonth": 734,
+    "timeDay": 627,
+    "timeWeek": 737,
+    "timeMonth": 727,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -108,11 +108,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 885,
-    "timeDay": 809,
-    "timeWeek": 749,
-    "timeMonth": 805,
-    "timeYear": 847,
+    "time": 884,
+    "timeDay": 594,
+    "timeWeek": 730,
+    "timeMonth": 788,
+    "timeYear": 846,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
