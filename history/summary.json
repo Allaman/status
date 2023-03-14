@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 339,
-    "timeWeek": 222,
-    "timeMonth": 212,
-    "timeYear": 536,
+    "time": 637,
+    "timeDay": 182,
+    "timeWeek": 215,
+    "timeMonth": 213,
+    "timeYear": 534,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1295,
-    "timeDay": 1291,
-    "timeWeek": 1266,
-    "timeMonth": 1208,
+    "time": 1296,
+    "timeDay": 1245,
+    "timeWeek": 1251,
+    "timeMonth": 1214,
     "timeYear": 1386,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 976,
-    "timeWeek": 879,
-    "timeMonth": 864,
-    "timeYear": 896,
+    "timeDay": 977,
+    "timeWeek": 886,
+    "timeMonth": 876,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 782,
-    "timeWeek": 785,
-    "timeMonth": 745,
-    "timeYear": 808,
+    "time": 803,
+    "timeDay": 689,
+    "timeWeek": 723,
+    "timeMonth": 748,
+    "timeYear": 807,
     "dailyMinutesDown": {
       "2022-06-13": 18
     }
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 747,
-    "timeDay": 651,
-    "timeWeek": 1137,
-    "timeMonth": 784,
+    "timeDay": 754,
+    "timeWeek": 639,
+    "timeMonth": 789,
     "timeYear": 721,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -109,10 +109,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 872,
-    "timeDay": 659,
-    "timeWeek": 791,
-    "timeMonth": 758,
-    "timeYear": 837,
+    "timeDay": 902,
+    "timeWeek": 789,
+    "timeMonth": 765,
+    "timeYear": 835,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
