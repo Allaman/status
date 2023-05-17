@@ -102,18 +102,19 @@
     "url": "$GIT",
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 726,
-    "timeWeek": 827,
-    "timeMonth": 774,
+    "timeDay": 762,
+    "timeWeek": 823,
+    "timeMonth": 775,
     "timeYear": 810,
     "dailyMinutesDown": {
+      "2023-05-17": 0,
       "2022-10-27": 23
     }
   }
