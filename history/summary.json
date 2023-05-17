@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 547,
-    "timeDay": 225,
-    "timeWeek": 253,
-    "timeMonth": 235,
-    "timeYear": 416,
+    "time": 545,
+    "timeDay": 124,
+    "timeWeek": 235,
+    "timeMonth": 231,
+    "timeYear": 414,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1420,
-    "timeDay": 1431,
-    "timeWeek": 1373,
-    "timeMonth": 1215,
+    "time": 1422,
+    "timeDay": 956,
+    "timeWeek": 1333,
+    "timeMonth": 1205,
     "timeYear": 1343,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 1019,
-    "timeWeek": 931,
-    "timeMonth": 872,
+    "time": 906,
+    "timeDay": 742,
+    "timeWeek": 900,
+    "timeMonth": 866,
     "timeYear": 873,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -68,10 +68,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 691,
-    "timeWeek": 771,
-    "timeMonth": 731,
+    "time": 799,
+    "timeDay": 615,
+    "timeWeek": 761,
+    "timeMonth": 729,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -88,10 +88,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 729,
-    "timeDay": 864,
-    "timeWeek": 803,
-    "timeMonth": 689,
+    "time": 728,
+    "timeDay": 678,
+    "timeWeek": 789,
+    "timeMonth": 684,
     "timeYear": 701,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -109,9 +109,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 843,
-    "timeDay": 698,
+    "timeDay": 726,
     "timeWeek": 827,
-    "timeMonth": 780,
+    "timeMonth": 774,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2022-10-27": 23
