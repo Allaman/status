@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 124,
-    "timeWeek": 235,
+    "time": 543,
+    "timeDay": 157,
+    "timeWeek": 227,
     "timeMonth": 231,
-    "timeYear": 414,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -28,10 +28,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1422,
-    "timeDay": 956,
-    "timeWeek": 1333,
-    "timeMonth": 1205,
+    "time": 1424,
+    "timeDay": 1518,
+    "timeWeek": 1349,
+    "timeMonth": 1223,
     "timeYear": 1343,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 906,
-    "timeDay": 742,
-    "timeWeek": 900,
-    "timeMonth": 866,
-    "timeYear": 873,
+    "timeDay": 807,
+    "timeWeek": 879,
+    "timeMonth": 871,
+    "timeYear": 872,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 615,
-    "timeWeek": 761,
-    "timeMonth": 729,
+    "timeDay": 780,
+    "timeWeek": 764,
+    "timeMonth": 728,
     "timeYear": 802,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -89,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 728,
-    "timeDay": 678,
-    "timeWeek": 789,
-    "timeMonth": 684,
-    "timeYear": 701,
+    "timeDay": 507,
+    "timeWeek": 751,
+    "timeMonth": 681,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -103,18 +103,19 @@
     "icon": "https://gitea.io/images/favicon.png",
     "slug": "git",
     "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 843,
-    "timeDay": 762,
-    "timeWeek": 823,
-    "timeMonth": 775,
-    "timeYear": 810,
+    "uptime": "99.63%",
+    "uptimeDay": "85.42%",
+    "uptimeWeek": "97.92%",
+    "uptimeMonth": "99.52%",
+    "uptimeYear": "99.96%",
+    "time": 841,
+    "timeDay": 591,
+    "timeWeek": 759,
+    "timeMonth": 769,
+    "timeYear": 808,
     "dailyMinutesDown": {
-      "2023-05-17": 0,
+      "2023-05-18": 20,
+      "2023-05-17": 190,
       "2022-10-27": 23
     }
   }
