@@ -6,17 +6,17 @@
     "slug": "mijope-de",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 531,
+    "time": 529,
     "timeDay": 320,
     "timeWeek": 206,
     "timeMonth": 222,
     "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-05-24": 0
+      "2023-05-24": 15
     }
   },
   {
