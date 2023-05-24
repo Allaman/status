@@ -4,18 +4,20 @@
     "url": "https://mijope.de",
     "icon": "https://icons.duckduckgo.com/ip3/mijope.de.ico",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 533,
+    "time": 532,
     "timeDay": 244,
     "timeWeek": 179,
     "timeMonth": 217,
     "timeYear": 403,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-24": 0
+    }
   },
   {
     "name": "rootknecht.net",
