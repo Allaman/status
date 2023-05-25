@@ -4,9 +4,9 @@
     "url": "https://mijope.de",
     "icon": "https://icons.duckduckgo.com/ip3/mijope.de.ico",
     "slug": "mijope-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 221,
     "timeYear": 400,
     "dailyMinutesDown": {
+      "2023-05-25": 0,
       "2023-05-24": 15
     }
   },
@@ -107,7 +108,7 @@
     "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "94.74%",
+    "uptimeWeek": "96.71%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.85%",
     "time": 835,
