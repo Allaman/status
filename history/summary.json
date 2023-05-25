@@ -4,17 +4,17 @@
     "url": "https://mijope.de",
     "icon": "https://icons.duckduckgo.com/ip3/mijope.de.ico",
     "slug": "mijope-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
     "uptimeDay": "98.93%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 529,
-    "timeDay": 320,
-    "timeWeek": 206,
-    "timeMonth": 222,
-    "timeYear": 402,
+    "time": 527,
+    "timeDay": 269,
+    "timeWeek": 211,
+    "timeMonth": 221,
+    "timeYear": 400,
     "dailyMinutesDown": {
       "2023-05-24": 15
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1407,
-    "timeDay": 1229,
-    "timeWeek": 1167,
-    "timeMonth": 1176,
-    "timeYear": 1340,
+    "time": 1410,
+    "timeDay": 1614,
+    "timeWeek": 1181,
+    "timeMonth": 1197,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 902,
-    "timeDay": 797,
-    "timeWeek": 824,
-    "timeMonth": 848,
-    "timeYear": 873,
+    "timeDay": 937,
+    "timeWeek": 842,
+    "timeMonth": 855,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 699,
-    "timeWeek": 745,
-    "timeMonth": 713,
+    "timeDay": 811,
+    "timeWeek": 749,
+    "timeMonth": 723,
     "timeYear": 801,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -91,10 +91,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 725,
-    "timeDay": 759,
-    "timeWeek": 614,
-    "timeMonth": 668,
-    "timeYear": 700,
+    "timeDay": 814,
+    "timeWeek": 658,
+    "timeMonth": 676,
+    "timeYear": 701,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -107,13 +107,13 @@
     "status": "up",
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "92.66%",
+    "uptimeWeek": "94.74%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.85%",
-    "time": 837,
-    "timeDay": 736,
-    "timeWeek": 742,
-    "timeMonth": 765,
+    "time": 835,
+    "timeDay": 789,
+    "timeWeek": 786,
+    "timeMonth": 768,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2023-05-18": 550,
