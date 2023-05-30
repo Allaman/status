@@ -10,11 +10,11 @@
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 521,
-    "timeDay": 298,
-    "timeWeek": 255,
-    "timeMonth": 233,
-    "timeYear": 395,
+    "time": 520,
+    "timeDay": 209,
+    "timeWeek": 262,
+    "timeMonth": 228,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2023-05-25": 21,
       "2023-05-24": 15
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1383,
-    "timeDay": 1263,
-    "timeWeek": 1370,
-    "timeMonth": 1252,
-    "timeYear": 1343,
+    "timeDay": 1042,
+    "timeWeek": 1381,
+    "timeMonth": 1245,
+    "timeYear": 1341,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -53,9 +53,9 @@
     "uptimeYear": "100.00%",
     "time": 899,
     "timeDay": 822,
-    "timeWeek": 920,
-    "timeMonth": 886,
-    "timeYear": 876,
+    "timeWeek": 929,
+    "timeMonth": 880,
+    "timeYear": 875,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 799,
-    "timeDay": 660,
-    "timeWeek": 771,
-    "timeMonth": 730,
+    "timeDay": 806,
+    "timeWeek": 774,
+    "timeMonth": 734,
     "timeYear": 800,
     "dailyMinutesDown": {
       "2022-06-13": 18
@@ -91,10 +91,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 725,
-    "timeDay": 765,
-    "timeWeek": 744,
-    "timeMonth": 706,
+    "time": 724,
+    "timeDay": 600,
+    "timeWeek": 758,
+    "timeMonth": 701,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.31%",
     "uptimeYear": "99.85%",
-    "time": 835,
-    "timeDay": 888,
-    "timeWeek": 817,
-    "timeMonth": 787,
-    "timeYear": 811,
+    "time": 833,
+    "timeDay": 573,
+    "timeWeek": 799,
+    "timeMonth": 776,
+    "timeYear": 810,
     "dailyMinutesDown": {
       "2023-05-18": 550,
       "2023-05-17": 190,
