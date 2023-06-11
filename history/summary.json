@@ -25,9 +25,9 @@
     "url": "https://rootknecht.net",
     "icon": "https://rootknecht.net/logo.png",
     "slug": "rootknecht-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 1265,
     "timeYear": 1340,
     "dailyMinutesDown": {
+      "2023-06-11": 0,
       "2022-10-27": 23
     }
   },
