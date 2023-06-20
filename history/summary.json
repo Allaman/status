@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
-    "time": 488,
-    "timeDay": 271,
-    "timeWeek": 235,
-    "timeMonth": 220,
-    "timeYear": 363,
+    "time": 487,
+    "timeDay": 261,
+    "timeWeek": 229,
+    "timeMonth": 223,
+    "timeYear": 361,
     "dailyMinutesDown": {
       "2023-05-25": 21,
       "2023-05-24": 15
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1374,
-    "timeDay": 1655,
-    "timeWeek": 1338,
-    "timeMonth": 1256,
+    "time": 1375,
+    "timeDay": 1369,
+    "timeWeek": 1359,
+    "timeMonth": 1269,
     "timeYear": 1340,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 896,
-    "timeDay": 972,
-    "timeWeek": 836,
-    "timeMonth": 874,
-    "timeYear": 882,
+    "timeDay": 974,
+    "timeWeek": 850,
+    "timeMonth": 881,
+    "timeYear": 883,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 797,
-    "timeDay": 728,
-    "timeWeek": 726,
-    "timeMonth": 743,
-    "timeYear": 796,
+    "timeDay": 570,
+    "timeWeek": 694,
+    "timeMonth": 739,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 721,
-    "timeDay": 980,
-    "timeWeek": 765,
-    "timeMonth": 707,
-    "timeYear": 709,
+    "timeDay": 824,
+    "timeWeek": 774,
+    "timeMonth": 714,
+    "timeYear": 710,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -109,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 830,
-    "timeDay": 1024,
-    "timeWeek": 862,
-    "timeMonth": 782,
+    "time": 829,
+    "timeDay": 940,
+    "timeWeek": 865,
+    "timeMonth": 788,
     "timeYear": 815,
     "dailyMinutesDown": {
       "2023-05-18": 550,
