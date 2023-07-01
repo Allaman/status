@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 473,
-    "timeDay": 58,
-    "timeWeek": 194,
-    "timeMonth": 210,
-    "timeYear": 348,
+    "time": 471,
+    "timeDay": 125,
+    "timeWeek": 190,
+    "timeMonth": 207,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2023-05-25": 21,
       "2023-05-24": 15
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1474,
+    "time": 1368,
+    "timeDay": 951,
     "timeWeek": 1247,
-    "timeMonth": 1264,
+    "timeMonth": 1252,
     "timeYear": 1342,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -52,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 894,
-    "timeDay": 879,
-    "timeWeek": 853,
-    "timeMonth": 871,
+    "timeDay": 720,
+    "timeWeek": 847,
+    "timeMonth": 861,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 792,
-    "timeDay": 623,
-    "timeWeek": 589,
-    "timeMonth": 684,
-    "timeYear": 783,
+    "timeDay": 668,
+    "timeWeek": 611,
+    "timeMonth": 683,
+    "timeYear": 782,
     "dailyMinutesDown": {}
   },
   {
@@ -89,10 +89,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 720,
-    "timeDay": 598,
-    "timeWeek": 685,
-    "timeMonth": 715,
+    "time": 719,
+    "timeDay": 591,
+    "timeWeek": 680,
+    "timeMonth": 716,
     "timeYear": 714,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -109,10 +109,10 @@
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
-    "time": 827,
-    "timeDay": 738,
-    "timeWeek": 741,
-    "timeMonth": 785,
+    "time": 823,
+    "timeDay": 683,
+    "timeWeek": 749,
+    "timeMonth": 781,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2023-06-28": 18,
