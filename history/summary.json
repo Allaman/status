@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 445,
-    "timeDay": 127,
-    "timeWeek": 163,
-    "timeMonth": 194,
-    "timeYear": 319,
+    "timeDay": 277,
+    "timeWeek": 176,
+    "timeMonth": 195,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2023-05-25": 21,
       "2023-05-24": 15
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1359,
-    "timeDay": 967,
-    "timeWeek": 1158,
-    "timeMonth": 1269,
+    "time": 1360,
+    "timeDay": 1776,
+    "timeWeek": 1230,
+    "timeMonth": 1286,
     "timeYear": 1345,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 841,
-    "timeWeek": 836,
-    "timeMonth": 891,
-    "timeYear": 892,
+    "time": 887,
+    "timeDay": 1155,
+    "timeWeek": 873,
+    "timeMonth": 898,
+    "timeYear": 893,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -72,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 784,
-    "timeDay": 532,
-    "timeWeek": 493,
-    "timeMonth": 614,
-    "timeYear": 775,
+    "timeDay": 724,
+    "timeWeek": 512,
+    "timeMonth": 611,
+    "timeYear": 774,
     "dailyMinutesDown": {}
   },
   {
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 716,
-    "timeDay": 611,
-    "timeWeek": 694,
-    "timeMonth": 711,
+    "timeDay": 817,
+    "timeWeek": 695,
+    "timeMonth": 713,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2022-10-27": 23
@@ -109,10 +109,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
-    "time": 820,
-    "timeDay": 602,
-    "timeWeek": 758,
-    "timeMonth": 795,
+    "time": 821,
+    "timeDay": 995,
+    "timeWeek": 776,
+    "timeMonth": 798,
     "timeYear": 819,
     "dailyMinutesDown": {
       "2023-06-28": 18,
