@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 436,
-    "timeDay": 132,
-    "timeWeek": 169,
+    "time": 434,
+    "timeDay": 139,
+    "timeWeek": 171,
     "timeMonth": 185,
-    "timeYear": 309,
+    "timeYear": 306,
     "dailyMinutesDown": {
       "2023-05-25": 21,
       "2023-05-24": 15
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1356,
-    "timeDay": 910,
-    "timeWeek": 1094,
-    "timeMonth": 1239,
-    "timeYear": 1341,
+    "time": 1355,
+    "timeDay": 1070,
+    "timeWeek": 1109,
+    "timeMonth": 1243,
+    "timeYear": 1339,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -52,10 +52,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 885,
-    "timeDay": 723,
-    "timeWeek": 782,
+    "timeDay": 733,
+    "timeWeek": 767,
     "timeMonth": 868,
-    "timeYear": 891,
+    "timeYear": 890,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 781,
-    "timeDay": 503,
-    "timeWeek": 568,
-    "timeMonth": 609,
+    "timeDay": 667,
+    "timeWeek": 587,
+    "timeMonth": 610,
     "timeYear": 770,
     "dailyMinutesDown": {}
   },
@@ -90,10 +90,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 714,
-    "timeDay": 585,
-    "timeWeek": 588,
-    "timeMonth": 678,
-    "timeYear": 718,
+    "timeDay": 589,
+    "timeWeek": 585,
+    "timeMonth": 681,
+    "timeYear": 717,
     "dailyMinutesDown": {
       "2022-10-27": 23
     }
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.85%",
-    "time": 818,
-    "timeDay": 690,
-    "timeWeek": 691,
-    "timeMonth": 779,
-    "timeYear": 817,
+    "time": 817,
+    "timeDay": 595,
+    "timeWeek": 690,
+    "timeMonth": 776,
+    "timeYear": 816,
     "dailyMinutesDown": {
       "2023-06-28": 18,
       "2023-05-18": 550,
