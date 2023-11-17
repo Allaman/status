@@ -13,7 +13,7 @@ sites:
   - name: Syncthing
     url: $SYNC
     expectedStatusCodes:
-      - 401
+      - 200
     icon: https://syncthing.net/img/favicons/favicon-32x32.png
   - name: Timetrack
     url: $TRACK
