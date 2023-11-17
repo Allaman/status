@@ -1,7 +1,7 @@
 url: $SYNC
-status: down
+status: up
 code: 200
-responseTime: 915
-lastUpdated: 2023-11-16T23:05:14.874Z
+responseTime: 806
+lastUpdated: 2023-11-17T18:46:30.943Z
 startTime: 2020-12-28T11:57:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
