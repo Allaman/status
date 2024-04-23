@@ -82,19 +82,19 @@
     "url": "$HUGINN",
     "icon": "https://raw.githubusercontent.com/huginn/huginn/master/media/huginn-icon-64.png",
     "slug": "huginn",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 707,
-    "timeDay": 689,
-    "timeWeek": 695,
-    "timeMonth": 707,
-    "timeYear": 689,
+    "time": 708,
+    "timeDay": 795,
+    "timeWeek": 730,
+    "timeMonth": 716,
+    "timeYear": 690,
     "dailyMinutesDown": {
-      "2024-04-23": 0
+      "2024-04-23": 7
     }
   },
   {
