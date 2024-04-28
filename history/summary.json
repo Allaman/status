@@ -82,9 +82,9 @@
     "url": "$HUGINN",
     "icon": "https://raw.githubusercontent.com/huginn/huginn/master/media/huginn-icon-64.png",
     "slug": "huginn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -93,7 +93,9 @@
     "timeWeek": 685,
     "timeMonth": 705,
     "timeYear": 691,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-28": 0
+    }
   },
   {
     "name": "Git",
