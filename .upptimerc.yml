@@ -1,3 +1,4 @@
+---
 # Change these first
 owner: Allaman # Your GitHub username
 repo: status # Your GitHub repository name
@@ -18,12 +19,16 @@ sites:
   - name: Timetrack
     url: $TRACK
     icon: https://www.timetrackapp.com/wp-content/uploads/2020/04/favicon.png
-  - name: Huginn
-    url: $HUGINN
-    icon: https://raw.githubusercontent.com/huginn/huginn/master/media/huginn-icon-64.png
   - name: Git
     url: $GIT
-    icon: https://gitea.io/images/favicon.png
+    icon: https://forgejo.org/favicon.svg
+  - name: RSS
+    url: $RSS
+    icon: https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png
+  - name: Cloud
+    url: $Cloud
+  - name: Library
+    url: $LIBRARY
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
