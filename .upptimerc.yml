@@ -26,7 +26,7 @@ sites:
     url: $RSS
     icon: https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png
   - name: Cloud
-    url: $Cloud
+    url: $CLOUD
   - name: Library
     url: $LIBRARY
 
