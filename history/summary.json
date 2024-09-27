@@ -101,18 +101,20 @@
     "url": "$RSS",
     "icon": "https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 863,
-    "timeDay": 1146,
-    "timeWeek": 1075,
-    "timeMonth": 1139,
-    "timeYear": 863,
-    "dailyMinutesDown": {}
+    "time": 862,
+    "timeDay": 949,
+    "timeWeek": 1035,
+    "timeMonth": 1127,
+    "timeYear": 862,
+    "dailyMinutesDown": {
+      "2024-09-27": 0
+    }
   },
   {
     "name": "Cloud",
