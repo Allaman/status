@@ -97,18 +97,20 @@
     "url": "$RSS",
     "icon": "https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 909,
-    "timeDay": 600,
-    "timeWeek": 807,
-    "timeMonth": 989,
+    "timeDay": 675,
+    "timeWeek": 800,
+    "timeMonth": 981,
     "timeYear": 909,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-27": 0
+    }
   },
   {
     "name": "Cloud",
@@ -133,17 +135,19 @@
     "url": "$LIBRARY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "library",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 868,
-    "timeDay": 641,
-    "timeWeek": 777,
-    "timeMonth": 1067,
+    "timeDay": 773,
+    "timeWeek": 793,
+    "timeMonth": 1062,
     "timeYear": 868,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-27": 0
+    }
   }
 ]
