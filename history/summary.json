@@ -97,19 +97,19 @@
     "url": "$RSS",
     "icon": "https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png",
     "slug": "rss",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 909,
-    "timeDay": 675,
-    "timeWeek": 800,
-    "timeMonth": 981,
-    "timeYear": 909,
+    "time": 908,
+    "timeDay": 738,
+    "timeWeek": 807,
+    "timeMonth": 977,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2024-12-27": 0
+      "2024-12-27": 9
     }
   },
   {
@@ -135,19 +135,19 @@
     "url": "$LIBRARY",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "library",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 868,
-    "timeDay": 773,
-    "timeWeek": 793,
-    "timeMonth": 1062,
+    "timeDay": 798,
+    "timeWeek": 799,
+    "timeMonth": 1055,
     "timeYear": 868,
     "dailyMinutesDown": {
-      "2024-12-27": 0
+      "2024-12-27": 9
     }
   }
 ]
