@@ -24,18 +24,16 @@
     "slug": "rootknecht-net",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 950,
     "timeDay": 1036,
     "timeWeek": 1433,
     "timeMonth": 1075,
     "timeYear": 914,
-    "dailyMinutesDown": {
-      "2025-03-05": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Syncthing",
