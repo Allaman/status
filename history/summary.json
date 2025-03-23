@@ -76,18 +76,20 @@
     "url": "$GIT",
     "icon": "https://forgejo.org/favicon.svg",
     "slug": "git",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 943,
-    "timeDay": 1236,
-    "timeWeek": 2908,
-    "timeMonth": 1717,
+    "time": 944,
+    "timeDay": 1125,
+    "timeWeek": 2671,
+    "timeMonth": 1693,
     "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-23": 0
+    }
   },
   {
     "name": "RSS",
@@ -114,18 +116,16 @@
     "slug": "cloud",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "98.96%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1151,
     "timeDay": 1092,
     "timeWeek": 1280,
     "timeMonth": 1414,
     "timeYear": 1151,
-    "dailyMinutesDown": {
-      "2025-03-23": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Library",
