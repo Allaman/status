@@ -76,19 +76,19 @@
     "url": "$GIT",
     "icon": "https://forgejo.org/favicon.svg",
     "slug": "git",
-    "status": "down",
+    "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.26%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "100.00%",
     "time": 944,
-    "timeDay": 1125,
-    "timeWeek": 2671,
-    "timeMonth": 1693,
+    "timeDay": 1030,
+    "timeWeek": 2468,
+    "timeMonth": 1664,
     "timeYear": 1016,
     "dailyMinutesDown": {
-      "2025-03-23": 0
+      "2025-03-23": 25
     }
   },
   {
