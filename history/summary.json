@@ -114,18 +114,20 @@
     "url": "$CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1160,
-    "timeDay": 1292,
-    "timeWeek": 1077,
-    "timeMonth": 1310,
-    "timeYear": 1160,
-    "dailyMinutesDown": {}
+    "time": 1164,
+    "timeDay": 1968,
+    "timeWeek": 1273,
+    "timeMonth": 1350,
+    "timeYear": 1164,
+    "dailyMinutesDown": {
+      "2025-04-13": 0
+    }
   },
   {
     "name": "Library",
