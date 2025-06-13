@@ -40,19 +40,19 @@
     "url": "$SYNC",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1212,
-    "timeDay": 3945,
-    "timeWeek": 1937,
-    "timeMonth": 1509,
-    "timeYear": 1307,
+    "timeDay": 2916,
+    "timeWeek": 1817,
+    "timeMonth": 1489,
+    "timeYear": 1305,
     "dailyMinutesDown": {
-      "2025-06-13": 0
+      "2025-06-13": 9
     }
   },
   {
