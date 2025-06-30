@@ -58,19 +58,19 @@
     "url": "$TRACK",
     "icon": "https://www.timetrackapp.com/wp-content/uploads/2020/04/favicon.png",
     "slug": "timetrack",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 553,
-    "timeWeek": 545,
-    "timeMonth": 549,
-    "timeYear": 563,
+    "timeDay": 504,
+    "timeWeek": 534,
+    "timeMonth": 546,
+    "timeYear": 562,
     "dailyMinutesDown": {
-      "2025-06-30": 0
+      "2025-06-30": 14
     }
   },
   {
