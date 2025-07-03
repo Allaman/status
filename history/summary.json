@@ -58,18 +58,20 @@
     "url": "$TRACK",
     "icon": "https://www.timetrackapp.com/wp-content/uploads/2020/04/favicon.png",
     "slug": "timetrack",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
+    "time": 566,
     "timeDay": 692,
     "timeWeek": 518,
     "timeMonth": 549,
     "timeYear": 563,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-03": 0
+    }
   },
   {
     "name": "Git",
