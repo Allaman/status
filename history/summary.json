@@ -96,19 +96,19 @@
     "url": "$RSS",
     "icon": "https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png",
     "slug": "rss",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1007,
-    "timeDay": 1120,
-    "timeWeek": 917,
-    "timeMonth": 1015,
-    "timeYear": 1050,
+    "timeDay": 975,
+    "timeWeek": 891,
+    "timeMonth": 1005,
+    "timeYear": 1049,
     "dailyMinutesDown": {
-      "2025-09-27": 0
+      "2025-09-27": 8
     }
   },
   {
