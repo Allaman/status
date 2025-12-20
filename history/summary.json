@@ -116,9 +116,9 @@
     "url": "$CLOUD",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cloud",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -128,6 +128,7 @@
     "timeMonth": 1354,
     "timeYear": 1285,
     "dailyMinutesDown": {
+      "2025-12-20": 0,
       "2025-09-07": 20
     }
   },
