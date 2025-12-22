@@ -22,19 +22,19 @@
     "url": "https://rootknecht.net",
     "icon": "https://rootknecht.net/logo.png",
     "slug": "rootknecht-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 1147,
-    "timeDay": 1444,
-    "timeWeek": 1307,
-    "timeMonth": 1308,
-    "timeYear": 1169,
+    "time": 1168,
+    "timeDay": 3879,
+    "timeWeek": 2295,
+    "timeMonth": 1599,
+    "timeYear": 1196,
     "dailyMinutesDown": {
-      "2025-12-22": 0
+      "2025-12-22": 8
     }
   },
   {
@@ -42,11 +42,11 @@
     "url": "$SYNC",
     "icon": "https://syncthing.net/img/favicons/favicon-32x32.png",
     "slug": "syncthing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1400,
     "timeDay": 1677,
@@ -54,7 +54,7 @@
     "timeMonth": 1626,
     "timeYear": 1412,
     "dailyMinutesDown": {
-      "2025-12-22": 22
+      "2025-12-22": 17
     }
   },
   {
@@ -102,18 +102,20 @@
     "url": "$RSS",
     "icon": "https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png",
     "slug": "rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1069,
+    "time": 1070,
     "timeDay": 994,
     "timeWeek": 1175,
     "timeMonth": 1257,
     "timeYear": 1083,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-22": 1
+    }
   },
   {
     "name": "Cloud",
