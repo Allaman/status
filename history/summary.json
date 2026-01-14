@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 231,
     "timeDay": 345,
-    "timeWeek": 336,
+    "timeWeek": 347,
     "timeMonth": 255,
     "timeYear": 241,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1187,
     "timeDay": 1177,
-    "timeWeek": 1440,
+    "timeWeek": 1381,
     "timeMonth": 1691,
     "timeYear": 1229,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1409,
     "timeDay": 1228,
-    "timeWeek": 1505,
+    "timeWeek": 1524,
     "timeMonth": 1507,
     "timeYear": 1428,
     "dailyMinutesDown": {
@@ -100,19 +100,19 @@
     "url": "$RSS",
     "icon": "https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png",
     "slug": "rss",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 1077,
-    "timeDay": 0,
-    "timeWeek": 1127,
-    "timeMonth": 1244,
-    "timeYear": 1102,
+    "time": 1076,
+    "timeDay": 1186,
+    "timeWeek": 1135,
+    "timeMonth": 1243,
+    "timeYear": 1103,
     "dailyMinutesDown": {
-      "2026-01-14": 0
+      "2026-01-14": 11
     }
   },
   {
@@ -148,7 +148,7 @@
     "uptimeYear": "100.00%",
     "time": 997,
     "timeDay": 2099,
-    "timeWeek": 1620,
+    "timeWeek": 1635,
     "timeMonth": 1215,
     "timeYear": 1006,
     "dailyMinutesDown": {}
