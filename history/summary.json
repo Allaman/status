@@ -102,18 +102,16 @@
     "slug": "rss",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1076,
     "timeDay": 1186,
     "timeWeek": 1135,
     "timeMonth": 1243,
     "timeYear": 1103,
-    "dailyMinutesDown": {
-      "2026-01-14": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Cloud",
