@@ -27,8 +27,6 @@ sites:
     icon: https://rss.com/blog/wp-content/uploads/2019/10/logo_RSS_square_500x500-150x150.png
   - name: Cloud
     url: $CLOUD
-  - name: Library
-    url: $LIBRARY
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
