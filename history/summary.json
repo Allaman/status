@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 316,
-    "timeDay": 443,
-    "timeWeek": 442,
+    "timeDay": 261,
+    "timeWeek": 413,
     "timeMonth": 356,
     "timeYear": 335,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1202,
-    "timeDay": 1210,
-    "timeWeek": 1116,
-    "timeMonth": 1017,
-    "timeYear": 1232,
+    "time": 1195,
+    "timeDay": 979,
+    "timeWeek": 1097,
+    "timeMonth": 1019,
+    "timeYear": 1231,
     "dailyMinutesDown": {
       "2026-04-03": 37
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1431,
-    "timeDay": 1450,
-    "timeWeek": 1403,
-    "timeMonth": 1332,
+    "timeDay": 974,
+    "timeWeek": 1319,
+    "timeMonth": 1318,
     "timeYear": 1448,
     "dailyMinutesDown": {
       "2025-12-22": 15,
@@ -69,10 +69,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 642,
-    "timeDay": 742,
-    "timeWeek": 724,
-    "timeMonth": 640,
+    "time": 641,
+    "timeDay": 599,
+    "timeWeek": 685,
+    "timeMonth": 643,
     "timeYear": 656,
     "dailyMinutesDown": {
       "2025-12-12": 27
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1246,
-    "timeDay": 1340,
-    "timeWeek": 1314,
-    "timeMonth": 1219,
+    "timeDay": 856,
+    "timeWeek": 1226,
+    "timeMonth": 1200,
     "timeYear": 1271,
     "dailyMinutesDown": {
       "2026-04-03": 37
@@ -110,10 +110,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1291,
-    "timeDay": 1719,
-    "timeWeek": 1844,
-    "timeMonth": 1603,
-    "timeYear": 1368,
+    "timeDay": 1138,
+    "timeWeek": 1740,
+    "timeMonth": 1606,
+    "timeYear": 1369,
     "dailyMinutesDown": {
       "2026-04-03": 37
     }
@@ -129,10 +129,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1492,
-    "timeDay": 2467,
-    "timeWeek": 1970,
-    "timeMonth": 1779,
+    "time": 1493,
+    "timeDay": 1440,
+    "timeWeek": 1896,
+    "timeMonth": 1781,
     "timeYear": 1564,
     "dailyMinutesDown": {
       "2026-04-03": 48
